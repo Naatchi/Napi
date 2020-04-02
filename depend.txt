@@ -1,0 +1,7 @@
+discord
+
+pandas
+pickle //fix this error import code!
+scikitlearn / sklearn
+argparse
+datetime
